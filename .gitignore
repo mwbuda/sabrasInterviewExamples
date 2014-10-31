@@ -1,0 +1,7 @@
+.metadata/**
+**/.settings/**
+**/modules/**
+**/.project
+**/.classpath
+**/target/**
+sandbox/**
